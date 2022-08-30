@@ -13,9 +13,9 @@ public class UserReader {
     }
 
 
-    public String getUsernameFromJson() {
+  //  public String getUsernameFromJson() {
         // return JsonReader.getUserName;
-        return xmlReader.getUsername();     // public string getUserNameFromXML()
-    }
+
+  //  }
 
 }
