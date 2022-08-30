@@ -2,14 +2,14 @@ package com.cydeo.solid.singleResponsibility.example.good;
 
 public class Manager {
 
-    public static void boolean validate(){
+    public static boolean validate(){
         // Check validation
         return true;
 
     }
 
 
-    public static void boolean  checkSecurity(){
+    public static boolean  checkSecurity(){
         // Send to Security related part
         return true;
 
