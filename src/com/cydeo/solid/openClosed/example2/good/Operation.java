@@ -5,4 +5,5 @@ public interface Operation {
 
     void calculate(int num1, int num2);
 
+
 }
