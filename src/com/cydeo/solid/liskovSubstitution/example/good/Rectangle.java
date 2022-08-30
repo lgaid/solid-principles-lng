@@ -7,6 +7,7 @@ public class Rectangle implements Shape{
 
     public void setHeight(int height) {
         this.height = height;
+
     }
 
     public void setWidth(int width) {

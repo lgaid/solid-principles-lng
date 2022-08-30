@@ -6,6 +6,7 @@ public class Square implements Shape{
 
     public void setSide(int side) {
         this.side = side;
+
     }
 
     @Override
