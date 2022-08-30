@@ -6,4 +6,6 @@ public interface Bird {
     void walk();
     void fly();
 
+
+
 }
