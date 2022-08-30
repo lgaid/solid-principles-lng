@@ -8,4 +8,5 @@ public class Operation {
         return type;
     }
 
+
 }
