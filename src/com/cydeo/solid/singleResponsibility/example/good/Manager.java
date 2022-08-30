@@ -11,6 +11,7 @@ public class Manager {
 
     public static boolean  checkSecurity(){
         // Send to Security related part
+
         return true;
 
     }
